@@ -40,10 +40,11 @@ Ao finalizar, o sistema calcula e exibe:
 ![Declaração das despesas e análise](assets/img-2.PNG)
 ### 3️⃣ Distribuição do salário líquido
 Com base no percentual de comprometimento da renda, o programa recomenda uma distribuição adequada do salário líquido entre:
--Flexível
--Lazer
--Guardar
+- Flexível
+- Lazer
+- Guardar
 ![Distribuição do salário líquido](assets/img-3.PNG)
+
 
 
 
