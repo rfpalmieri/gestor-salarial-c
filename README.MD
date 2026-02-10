@@ -36,4 +36,4 @@ Este projeto foi desenvolvido em linguagem C.
 No terminal, dentro da pasta do projeto, execute:
 
 ```bash
-gcc main.c -o gestor_salarial```
+gcc main.c -o gestor_salarial
