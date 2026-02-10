@@ -36,8 +36,4 @@ Este projeto foi desenvolvido em linguagem C.
 No terminal, dentro da pasta do projeto, execute:
 
 ```bash
-gcc main.c -o gestor_salarial
-
-### Observação
-O programa é executado via terminal e interage com o usuário por meio de entrada de dados (scanf).
-
+gcc main.c -o gestor_salarial```
