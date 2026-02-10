@@ -29,7 +29,7 @@ A lógica evita erros de ponto flutuante ao comparar proporções diretamente.
 ###1️⃣ Apresentação e entrada do salário
 
 O programa inicia apresentando sua proposta ao usuário e solicita a inserção do salário mensal, garantindo que o valor informado seja válido.
-![Apresentação e entrada do salário](img-1.PNG)
+![Apresentação e entrada do salário](assets/img-1.PNG)
 
 ###2️⃣ Declaração das despesas fixas
 O usuário informa todas as despesas fixas (aluguel, contas, etc.).
@@ -37,11 +37,12 @@ Ao finalizar, o sistema calcula e exibe:
 - Total de despesas fixas 
 - Salário líquido disponível
 - Situação financeira (Confortável, Equilibrada, Alerta ou Crítica)
-![Declaração das despesas e análise](img-2.PNG)
+![Declaração das despesas e análise](assets/img-2.PNG)
 ###3️⃣ Distribuição do salário líquido
 Com base no percentual de comprometimento da renda, o programa recomenda uma distribuição adequada do salário líquido entre:
 -Flexível
 -Lazer
 -Guardar
-![Distribuição do salário líquido](img-3.PNG)
+![Distribuição do salário líquido](assets/img-3.PNG)
+
 
