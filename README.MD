@@ -37,3 +37,7 @@ No terminal, dentro da pasta do projeto, execute:
 
 ```bash
 gcc main.c -o gestor_salarial
+
+###Funcionamento
+![Tela inicial](assets/img-1.png)
+![Distribuição salarial](img-2.png)
