@@ -24,4 +24,16 @@ A lógica evita erros de ponto flutuante ao comparar proporções diretamente.
 ## 🛠 Tecnologias
 - Linguagem C
 - Compilador GCC
+## ▶️ Como compilar e executar
+
+Este projeto foi desenvolvido em linguagem C.
+
+### Pré-requisitos
+- Compilador GCC instalado
+
+### Compilação
+No terminal, dentro da pasta do projeto, execute:
+
+```bash
+gcc main.c -o gestor_salarial
 - Programação estruturada
