@@ -24,6 +24,7 @@ A lógica evita erros de ponto flutuante ao comparar proporções diretamente.
 ## 🛠 Tecnologias
 - Linguagem C
 - Compilador GCC
+- Programação estruturada
 ## ▶️ Como compilar e executar
 
 Este projeto foi desenvolvido em linguagem C.
@@ -36,4 +37,7 @@ No terminal, dentro da pasta do projeto, execute:
 
 ```bash
 gcc main.c -o gestor_salarial
-- Programação estruturada
+
+```md
+### Observação
+O programa é executado via terminal e interage com o usuário por meio de entrada de dados (scanf).
