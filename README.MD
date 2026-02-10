@@ -25,3 +25,5 @@ A lógica evita erros de ponto flutuante ao comparar proporções diretamente.
 - Linguagem C
 - Compilador GCC
 - Programação estruturada
+
+![Tela inicial](assets/img-1.png)
