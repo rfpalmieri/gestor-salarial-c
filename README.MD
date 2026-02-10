@@ -38,6 +38,6 @@ No terminal, dentro da pasta do projeto, execute:
 ```bash
 gcc main.c -o gestor_salarial
 
-```md
 ### Observação
 O programa é executado via terminal e interage com o usuário por meio de entrada de dados (scanf).
+
